@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+  }
+
+body {
+ background-image: url("photos/pretty-lights.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.header {
+    border: solid white;
+    height: 5em;
+    display: flex;
+}
+
+.name {
+    border: solid pink;
+    text-align: center;
+    padding: 8% 50% 20% 5%;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma;
+    color: white;
+}
