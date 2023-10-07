@@ -1,0 +1,35 @@
+body {
+    background-color: #123c3d;
+}
+
+h1 {
+    color: #76A9AB;
+    text-align: center;
+}
+
+img {
+    height: 15vh
+}
+
+.paragraph {
+    border: solid white;
+    background-color: #76a9abe7;
+    height: 15vh;
+    width: 50vh;
+    text-align: center;
+    font-size: 25px;
+}
+
+.bigbox {
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.note {
+    color: #76A9AB;
+    text-align: center;
+}
